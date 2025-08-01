@@ -50,7 +50,7 @@ Uma API RESTful desenvolvida em Node.js com autenticação JWT, banco de dados M
    node server.js
    ```
 
-O servidor estará rodando em `http://localhost:3000`
+O servidor estará rodando na porta `http://localhost:3000`
 
 ## 📚 Estrutura do Projeto
 
